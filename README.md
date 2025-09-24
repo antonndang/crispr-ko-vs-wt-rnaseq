@@ -2,7 +2,8 @@
 
 This repo contains a single Jupyter/R analysis notebook for bulk RNA-seq differential expression comparing **knockouts (KO)** vs **wild-type (WT)**, plus an optional **PDF report** with the write-up and figures.
 
-- Notebook: `notebooks/Final3.ipynb`
+- Notebook: `notebooks/Final.ipynb`
+- PDF: `Final.pdf`
 
 ## Overview
 - **Goal:** Analyze NIH **MorPhiC Bulk RNA-seq Study 2 (GSE288289)** to quantify transcriptome changes from **7 TF knockouts** in extra-embryonic lineages vs WT.
